@@ -1,0 +1,10 @@
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\bin\Debug\Library.dll
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\bin\Debug\Library.pdb
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\obj\Debug\SerializarJSON.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\obj\Debug\SerializarJSON.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+C:\Users\Gustavo\source\repos\Serializar-Deserializar_JSON\SerializarJSON\obj\Debug\SerializarJSON.pdb
